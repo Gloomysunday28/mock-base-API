@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest ./DeepClone"
+    "test": "jest"
   },
   "keywords": [],
   "author": "cjd <459953103@qq.com> (http://github.com/GloomySunday28)",

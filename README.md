@@ -13,5 +13,10 @@
   [手撸代码 -- InstanceOf](https://github.com/Gloomysunday28/mock-base-API/blob/master/InstanceOf/index.js:)
 
   [手撸代码 -- New](https://github.com/Gloomysunday28/mock-base-API/blob/master/New/index.js:)
-  
+
   [手撸代码 -- Promise](https://github.com/Gloomysunday28/mock-base-API/blob/master/Promise/index.js:)
+
+## 测试代码
+```javascript
+  yarn test
+```

@@ -1,0 +1,15 @@
+{
+  "name": "@kvinc/achieve-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./DeepClone"
+  },
+  "keywords": [],
+  "author": "cjd <459953103@qq.com> (http://github.com/GloomySunday28)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
